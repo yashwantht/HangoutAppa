@@ -26,7 +26,7 @@ var Answers = {
   NO: 'n',
   MAYBE: 'm'
 };
-var HOST = '//hangoutsapi.appspot.com/static/yesnomaybe';
+var HOST = '//raw.github.com/yashwantht/HangoutAppa/master/google-plus-hangout-samples-c3f110fde275/samples/yes-no-maybe/static/yesnomaybe';
 
 var DEFAULT_ICONS = {};
 DEFAULT_ICONS[Answers.YES] = HOST + '/yes.png';
